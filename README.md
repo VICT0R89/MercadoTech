@@ -1,4 +1,4 @@
 # MercadoTech
-Víctor Gutiérrez
+Víctor Gutiérrez :grinning:
 Clon uno :smiley:
-Clon dos
+Clon dos :smile:
